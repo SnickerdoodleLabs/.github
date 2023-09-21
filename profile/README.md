@@ -1,7 +1,6 @@
-![Snickerdoodle Protocol](https://github.com/SnickerdoodleLabs/Snickerdoodle-Theme-Light/blob/main/snickerdoodle_horizontal_notab.png?raw=true)
+[![Snickerdoodle Protocol](https://github.com/SnickerdoodleLabs/Snickerdoodle-Theme-Light/blob/main/snickerdoodle_horizontal_notab.png?raw=true)](https://snickerdoodle.com)
 
 # Snickerdoodle Labs
 
-The mission of [Snickerdoodle Labs](https://snickerdoodle.com) is to enable all internet citizens to own and monetize the data they generate on 
-a daily basis when interacting with online platforms. The team at Snickerdoodle Labs aims to accomplish this through the development of open and 
-permissionless data exchange protocols and software that can be leveraged in existing mobile, desktop, and web applications. 
+[Snickerdoodle Labs](https://snickerdoodle.com) is building a next-generation, web3-focused data managment platform and consumer data protocol that does not rely on first or third-party 
+cookies or centralized datalakes of user PII. We replace cookies with specialized zkSNARK circuits and datalakes with client-side data custody.
